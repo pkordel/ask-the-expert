@@ -61,6 +61,7 @@ group :development do
   # gem "rack-mini-profiler"
 
   gem "standard"
+  gem "solargraph-rails"
 end
 
 group :test do
